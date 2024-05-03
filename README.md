@@ -9,7 +9,7 @@ Follow following steps:
 
 
 Made by-
-Arham Jain
-Aryan Bharadwaj
-Apeksh Gupta
+Arham Jain,
+Aryan Bharadwaj,
+Apeksh Gupta,
 Aryan Jain
